@@ -9,78 +9,128 @@ hide:
 # Study in Slovakia
 
 Student onboarding guides for international students in Slovakia.
-Use the search bar at the top to find anything.
+Choose your faculty below, or use the search bar at the top.
 
 [Open the student portal :material-arrow-right:](https://portal.studyinslovakia.info){ .md-button .md-button--primary }
 
 </div>
 
-## Faculty of Medicine — UPJŠ Košice
+## University of Pavol Jozef Safarik
 
 <div class="grid cards" markdown>
 
--   :material-information:{ .lg .middle } __Overview__
+-   :material-hospital-box:{ .lg .middle } __Faculty of medicine__
 
     ---
 
-    Where the faculty is, study programmes, and a first-week checklist.
+    [:octicons-arrow-right-24: Open guide](lf-upjs/index.md)
 
-    [:octicons-arrow-right-24: Start here](lf-upjs/index.md)
+</div>
 
--   :material-card-account-phone:{ .lg .middle } __Offices & contacts__
+## Comenius University in Bratislava
 
-    ---
+<div class="grid cards" markdown>
 
-    Study Department contacts for English programmes and office hours.
-
-    [:octicons-arrow-right-24: Contacts](lf-upjs/contacts.md)
-
--   :material-map-marker:{ .lg .middle } __Campus & locations__
+-   :material-hospital-box:{ .lg .middle } __Faculty of medicine__
 
     ---
 
-    Main building and clinical teaching sites.
+    _Coming soon_
 
-    [:octicons-arrow-right-24: Locations](lf-upjs/campus.md)
+</div>
 
--   :material-silverware-fork-knife:{ .lg .middle } __Canteen__
+## Comenius University in Martin
 
-    ---
+<div class="grid cards" markdown>
 
-    Meal ordering and the student subsidy system.
-
-    [:octicons-arrow-right-24: Canteen](lf-upjs/canteen.md)
-
--   :material-book-open-variant:{ .lg .middle } __Library__
+-   :material-hospital-box:{ .lg .middle } __Jessenius Faculty of medicine__
 
     ---
 
-    Medical Library, borrowing and fees.
+    _Coming soon_
 
-    [:octicons-arrow-right-24: Library](lf-upjs/library.md)
+</div>
 
--   :material-home-city:{ .lg .middle } __Housing__
+## Technical University in Kosice
 
-    ---
+<div class="grid cards" markdown>
 
-    Dormitories and private accommodation.
-
-    [:octicons-arrow-right-24: Housing](lf-upjs/housing.md)
-
--   :material-laptop:{ .lg .middle } __IT systems__
+-   :material-chart-line:{ .lg .middle } __Faculty of Economics__
 
     ---
 
-    AiS2, Moodle and university email.
+    _Coming soon_
 
-    [:octicons-arrow-right-24: IT systems](lf-upjs/it-systems.md)
-
--   :material-hospital-box:{ .lg .middle } __Health & insurance__
+-   :material-flash:{ .lg .middle } __Faculty of Electrical engineering and Informatics__
 
     ---
 
-    Health insurance for EU and non-EU students, and emergency numbers.
+    _Coming soon_
 
-    [:octicons-arrow-right-24: Health](lf-upjs/health.md)
+-   :material-cog:{ .lg .middle } __Faculty of Mechanical Engineering__
+
+    ---
+
+    _Coming soon_
+
+-   :material-airplane:{ .lg .middle } __Faculty of Aeronautics__
+
+    ---
+
+    _Coming soon_
+
+</div>
+
+## Slovak Technical University in Bratislava
+
+<div class="grid cards" markdown>
+
+-   :material-cog:{ .lg .middle } __Faculty of Mechanical engineering__
+
+    ---
+
+    _Coming soon_
+
+-   :material-domain:{ .lg .middle } __Faculty of Civil engineering__
+
+    ---
+
+    _Coming soon_
+
+-   :material-flask:{ .lg .middle } __Faculty of Chemical and food technology__
+
+    ---
+
+    _Coming soon_
+
+-   :material-flash:{ .lg .middle } __Faculty of electrical enginering and Information technology__
+
+    ---
+
+    _Coming soon_
+
+</div>
+
+## Bratislava University of Economics and Management
+
+<div class="grid cards" markdown>
+
+-   :material-school:{ .lg .middle } __Bratislava University of Economics and Management__
+
+    ---
+
+    _Coming soon_
+
+</div>
+
+## Economic University in Bratislava
+
+<div class="grid cards" markdown>
+
+-   :material-school:{ .lg .middle } __Economic University in Bratislava__
+
+    ---
+
+    _Coming soon_
 
 </div>
