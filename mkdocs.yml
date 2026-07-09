@@ -1,0 +1,73 @@
+site_name: Study in Slovakia
+site_description: Knowledge base and guides for international students in Slovakia
+site_url: https://studyinslovakia.info
+copyright: © Study in Slovakia
+
+theme:
+  name: material
+  language: en
+  icon:
+    logo: material/school
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.instant
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - toc.follow
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Before you arrive:
+      - Visas & residence: before-arrival/visa.md
+      - What to pack: before-arrival/packing.md
+  - After you arrive:
+      - Residence permit: after-arrival/residence-permit.md
+      - Registration steps: after-arrival/registration.md
+  - Living in Slovakia:
+      - Housing: living/housing.md
+      - Banking: living/banking.md
+      - Transport: living/transport.md
+      - Health & insurance: living/health.md
+  - University life: university/index.md
+  - FAQ: faq.md
