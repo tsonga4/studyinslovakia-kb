@@ -8,52 +8,79 @@ hide:
 
 # Study in Slovakia
 
-Everything international students need to know — from visas and packing to
-housing, banking and settling into university life. Search anything using the
-bar at the top.
+Student onboarding guides for international students in Slovakia.
+Use the search bar at the top to find anything.
 
 [Open the student portal :material-arrow-right:](https://portal.studyinslovakia.info){ .md-button .md-button--primary }
 
 </div>
 
-## Browse the guides
+## Faculty of Medicine — UPJŠ Košice
 
 <div class="grid cards" markdown>
 
--   :material-airplane-takeoff:{ .lg .middle } __Before you arrive__
+-   :material-information:{ .lg .middle } __Overview__
 
     ---
 
-    Visa and residence requirements, and what to pack for your move.
+    Where the faculty is, study programmes, and a first-week checklist.
 
-    [:octicons-arrow-right-24: Get ready](before-arrival/visa.md)
+    [:octicons-arrow-right-24: Start here](lf-upjs/index.md)
 
--   :material-file-document-check:{ .lg .middle } __After you arrive__
-
-    ---
-
-    Residence permit, and the registration steps to complete in your first weeks.
-
-    [:octicons-arrow-right-24: First steps](after-arrival/residence-permit.md)
-
--   :material-home-city:{ .lg .middle } __Living in Slovakia__
+-   :material-card-account-phone:{ .lg .middle } __Offices & contacts__
 
     ---
 
-    Housing, banking, transport and health insurance — the practical basics.
+    Study Department contacts for English programmes and office hours.
 
-    [:octicons-arrow-right-24: Daily life](living/housing.md)
+    [:octicons-arrow-right-24: Contacts](lf-upjs/contacts.md)
 
--   :material-school:{ .lg .middle } __University life__
+-   :material-map-marker:{ .lg .middle } __Campus & locations__
 
     ---
 
-    Enrolment, student cards, and making the most of campus.
+    Main building and clinical teaching sites.
 
-    [:octicons-arrow-right-24: On campus](university/index.md)
+    [:octicons-arrow-right-24: Locations](lf-upjs/campus.md)
+
+-   :material-silverware-fork-knife:{ .lg .middle } __Canteen__
+
+    ---
+
+    Meal ordering and the student subsidy system.
+
+    [:octicons-arrow-right-24: Canteen](lf-upjs/canteen.md)
+
+-   :material-book-open-variant:{ .lg .middle } __Library__
+
+    ---
+
+    Medical Library, borrowing and fees.
+
+    [:octicons-arrow-right-24: Library](lf-upjs/library.md)
+
+-   :material-home-city:{ .lg .middle } __Housing__
+
+    ---
+
+    Dormitories and private accommodation.
+
+    [:octicons-arrow-right-24: Housing](lf-upjs/housing.md)
+
+-   :material-laptop:{ .lg .middle } __IT systems__
+
+    ---
+
+    AiS2, Moodle and university email.
+
+    [:octicons-arrow-right-24: IT systems](lf-upjs/it-systems.md)
+
+-   :material-hospital-box:{ .lg .middle } __Health & insurance__
+
+    ---
+
+    Health insurance for EU and non-EU students, and emergency numbers.
+
+    [:octicons-arrow-right-24: Health](lf-upjs/health.md)
 
 </div>
-
-!!! question "Can't find something?"
-    Use the search bar at the top of the page, or check the [FAQ](faq.md).
-    Still stuck? Reach out through the [student portal](https://portal.studyinslovakia.info).

@@ -49,6 +49,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -58,16 +60,12 @@ plugins:
 
 nav:
   - Home: index.md
-  - Before you arrive:
-      - Visas & residence: before-arrival/visa.md
-      - What to pack: before-arrival/packing.md
-  - After you arrive:
-      - Residence permit: after-arrival/residence-permit.md
-      - Registration steps: after-arrival/registration.md
-  - Living in Slovakia:
-      - Housing: living/housing.md
-      - Banking: living/banking.md
-      - Transport: living/transport.md
-      - Health & insurance: living/health.md
-  - University life: university/index.md
-  - FAQ: faq.md
+  - Faculty of Medicine – UPJŠ Košice:
+      - Overview: lf-upjs/index.md
+      - Offices & contacts: lf-upjs/contacts.md
+      - Campus & locations: lf-upjs/campus.md
+      - Canteen (Menza): lf-upjs/canteen.md
+      - Library: lf-upjs/library.md
+      - Housing & dormitories: lf-upjs/housing.md
+      - IT systems: lf-upjs/it-systems.md
+      - Health & insurance: lf-upjs/health.md
