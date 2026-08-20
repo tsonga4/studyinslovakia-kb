@@ -60,6 +60,7 @@ plugins:
 
 nav:
   - Home: index.md
+  - Foreign police appointment: foreign-police/index.md
   - Faculty of Medicine – UPJŠ Košice:
       - Overview: lf-upjs/index.md
       - Offices & contacts: lf-upjs/contacts.md
