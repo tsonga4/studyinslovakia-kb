@@ -13,6 +13,9 @@ It is necessary to book an appointment at the foreign police. Below is the step-
 - Visit the study office to collect your enrollment letter.
 - You can generate the TRP form at [rpform.studyinslovakia.sk](https://rpform.studyinslovakia.sk).
 
+!!! note "Which acceptance letter?"
+    You first receive a **Conditional acceptance letter**. After your secondary-school diploma (for Bachelor students) or Bachelor degree (for Master students) is recognised (nostrification), the faculty issues your **Final acceptance letter**. For the foreign police / residence permit, bring the **Final acceptance letter in Slovak** — not the Conditional one.
+
 ## Booking online — step by step
 
 **1. Open the foreign police portal**
