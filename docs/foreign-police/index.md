@@ -47,3 +47,6 @@ You will see the slots that are available. You can select any available slot —
 **5. Confirm and submit**
 
 Confirm your personal details and submit. You will get a confirmation by email.
+
+!!! tip "Can't get a slot through the portal?"
+    If you are unable to get an appointment through the portal, you can email the foreign police at [ocpvynimkyvychod@minv.sk](mailto:ocpvynimkyvychod@minv.sk).
