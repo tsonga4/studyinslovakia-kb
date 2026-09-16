@@ -1,0 +1,36 @@
+/* ─── Study in Slovakia brand colours ─────────────────────────────────────── */
+/* Same palette as the onboarding portal, kept in one place. */
+
+:root {
+  --md-primary-fg-color:        #D42B3A;
+  --md-primary-fg-color--light: #d94f5c;
+  --md-primary-fg-color--dark:  #b01e2b;
+  --md-accent-fg-color:         #1E6FAD;
+  --md-accent-fg-color--transparent: #1e6fad1a;
+}
+
+/* Links use the brand blue */
+.md-typeset a {
+  color: var(--md-accent-fg-color);
+}
+
+/* Home hero */
+.hero {
+  text-align: center;
+  padding: 2.5rem 1rem 1.5rem;
+}
+.hero h1 {
+  font-weight: 800;
+  margin-bottom: .4rem;
+}
+.hero p {
+  color: var(--md-default-fg-color--light);
+  font-size: .9rem;
+  max-width: 34rem;
+  margin: 0 auto;
+}
+
+/* Slightly softer card grid */
+.md-typeset .grid.cards > ul > li {
+  border-radius: .6rem;
+}
